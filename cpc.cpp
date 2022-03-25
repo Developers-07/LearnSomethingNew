@@ -1,1 +1,1 @@
-c++ is a number one programming language for online coding contest.
+C++ is the number one programming language for online coding contest.
